@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-@OSSDAO-ORG•AIRDROP-0x426e75d20Bb1f0F07F55231f11488e570b66d003
 
 <!---
 WindZi/WindZi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
